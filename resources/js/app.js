@@ -1,0 +1,2 @@
+//
+import.meta.glob(["../images/**"]);
